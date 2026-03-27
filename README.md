@@ -5,7 +5,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya21ndzRxY296cGE2bTQyajA5M
 width="50">
 Hey there!
 Future developer | 
----
+<img 
+src="https://linksharing.samsungcloud.com/bEwKgu9wnSe7"
+width
 
 ## 🧠 About me:
 - 💻 Currently working on **web projects & content creation**
