@@ -8,7 +8,7 @@ Future developer |
 
 <img 
 src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXoyczc5eGQyaXJmN3BnZjY2YWJ4Z21vM3NwemIxcXJhMGdnZWdzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/bZBjTwRFLYF3f53Y2k/giphy.gif"
-width="80">
+width="160">
 
 ## 🧠 About me:
 - 💻 Currently working on **web projects & content creation**
@@ -20,7 +20,6 @@ width="80">
 - ⚡ Fun fact: I love **cars 🚗 & ASMR 🎧**
 
 ---
-
 ## 🛠️ Tech Stack:
 - 🌐 HTML
 - 🎨 CSS
