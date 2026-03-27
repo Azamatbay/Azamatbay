@@ -1,5 +1,5 @@
-        <img
-I'm **Qalbaev.Azamat**🦁                                src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya21ndzRxY296cGE2bTQyajA5MXk2eHVqM2Z1MTczeWxwcWwwMjMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"
+        
+I'm **Qalbaev.Azamat**🦁                <img                src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya21ndzRxY296cGE2bTQyajA5MXk2eHVqM2Z1MTczeWxwcWwwMjMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"
 width="95">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybWRjcTZobnM4YXY0bmpuMXYza2l1azRwYzR6MHMxYTNod3lnOTY1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GpCPK1NesnZbSzPJq5/giphy.gif"
