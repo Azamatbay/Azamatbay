@@ -3,7 +3,7 @@
 </p>
 <!-- 🔥 3D Header -->
 <p align="center">
-  <img src="<p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Azamat+👋;Frontend+Developer+🚀;HTML+CSS+JS+Master;Future+Senior+Dev+🔥" />
 </p>
 <!-- ⚡ Typing Effect -->
