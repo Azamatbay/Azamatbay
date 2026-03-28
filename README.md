@@ -1,2 +1,10 @@
+<h1 align="center">Salem 👋, men Azamat</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Azamat%20Dev&fontSize=40&fontColor=ffffff"/>
+  💻 Frontend Developer (Beginner) <br>
+  🚀 HTML | CSS | JavaScript o‘rganayapman
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</p>
