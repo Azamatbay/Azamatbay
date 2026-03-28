@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Azamat%20Dev&fontSize=40&fontColor=ffffff"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Azamat%20Dev&fontSize=40&fontColor=ffffff"/>
 </p> <h1 align="center">Salom 
   <img src"https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13"
   width="50"> men Azamat</h1>
