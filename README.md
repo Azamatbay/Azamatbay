@@ -2,7 +2,7 @@
   <img 
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Azamat%20Dev&fontSize=40&fontColor=ffffff"/>
 </p> <h1 align="center">Salom 
-  <img src="src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya21ndzRxY296cGE2bTQyajA5MXk2eHVqM2Z1MTczeWxwcWwwMjMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya21ndzRxY296cGE2bTQyajA5MXk2eHVqM2Z1MTczeWxwcWwwMjMyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif"
 width="95">
 "
 width="50"> 
