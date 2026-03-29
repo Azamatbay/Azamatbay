@@ -42,13 +42,13 @@ l
 ---
 
 ## 🐍 Snake Animation
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://t.me/username">Telegram</a>
+  <a href="https://t.me/qalbaev336">Telegram</a>
 </p>
 
 ---
