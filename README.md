@@ -28,10 +28,6 @@ l
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
-</p>
-
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://t.me/qalbaev336">Telegram</a>
