@@ -21,8 +21,8 @@ width="80">
 - 📚 Hozir: HTML | CSS | JavaScript  
 - 🎯 Maqsad: Senior Developer bo‘lish  
 
----
-l
+------
+
 ## 🧩 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
